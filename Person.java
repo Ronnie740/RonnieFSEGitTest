@@ -37,4 +37,8 @@ public class Person
 	{
 		surname=surname;
 	}
+	public int getAge()
+	{
+	
+	}
 }

@@ -41,4 +41,8 @@ public class Person
 	{
 	
 	}
+	public void printFullName()
+	{
+		System.out.format("%s %s %s.%n"first,other,surname);
+	}
 }

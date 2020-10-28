@@ -45,4 +45,8 @@ public class Person
 	{
 		System.out.format("%s %s %s.%n"first,other,surname);
 	}
+	public void toString()
+	{
+	}
+
 }
